@@ -1,0 +1,17 @@
+psycopg2-binary~=2.9.9
+pytest-watch==4.2.0
+pytest~=6.2.5
+click~=8.0.3
+arrow~=1.2.1
+requests~=2.32.0
+peewee~=3.14.8
+pydash~=6.0.0
+numpy~=1.26.4
+pandas~=2.2.3
+tabulate~=0.8.9
+timeloop~=1.0.2
+websocket-client~=1.8.0
+matplotlib==3.1.2
+redis~=4.1.4
+empyrical==0.5.3
+blinker~=1.4
